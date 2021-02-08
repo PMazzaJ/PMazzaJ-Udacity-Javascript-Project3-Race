@@ -1,0 +1,93 @@
+/* CREATE PAGE SPECIFIC STYLES */
+
+/* -------------------  MOBILE  --------------------- */
+
+header {
+  background-image: url('./../images/2b-and-9s-nier-automata-y1030.jpg');
+}
+
+.podracer {
+  width: 11rem;
+  height: 11rem;  
+}
+
+.avatar-2B {
+  background-image: url('./../images/2B.png');
+}
+
+.avatar-9S {
+  background-image: url('./../images/9S.png');
+}
+
+.avatar-A2 {
+  background-image: url('./../images/A2.png');
+}
+
+.avatar-Pascal {
+  background-image: url('./../images/Pascal.png');
+}
+
+.avatar-Emil {
+  background-image: url('./../images/Emil.png');
+}
+
+.racer-font {
+  font-family: 'Raleway', sans-serif;
+  color:black;
+}
+
+.racer-container {
+  display: flex;
+  align-items: flex-start
+}
+
+.location-1 {
+  background-image: url('./../images/location_city_ruins.jpg');
+}
+
+.location-2 {
+  background-image: url('./../images/location_amusement_park.jpg');
+}
+
+.location-3 {
+  background-image: url('./../images/location_desert.jpg');
+}
+
+.location-4 {
+  background-image: url('./../images/location_forest.jpg');
+}
+
+.location-5 {
+  background-image: url('./../images/location_abandoned_factory.jpg');
+}
+
+.location-6 {
+  background-image: url('./../images/location_machine_village.jpg');
+}
+
+.track {
+  width: 15rem;
+  height: 9rem;  
+}
+
+.location-title {
+  font-family: 'Raleway', sans-serif;
+  color:black;
+  text-align: center;
+  font-weight: bold;
+}
+
+/* -------------------  TABLET  --------------------- */
+@media (min-width: 768px) {
+
+}
+
+/* -------------------  DESKTOP  -------------------- */
+
+@media (min-width: 1224px) {
+}
+
+/* -------------------  LARGE SCREENS  -------------- */
+
+@media (min-width: 1824px) {
+}
